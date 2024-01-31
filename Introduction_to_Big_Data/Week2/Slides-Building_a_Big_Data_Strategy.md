@@ -1,0 +1,3 @@
+# Slides: Building a Big Data Strategy
+
+https://d3c33hcgiwev3.cloudfront.net/_6fd74058c88c5c0c95cbc83f0480869c_1A.BuildingABigDataStrategy-Altintas.pdf?Expires=1706745600&Signature=kLxAdDPesW9dG-V9wZX~tP8QA~YPcdh3Fn34cxp0bHvIuxsr8a3ew7vc2Fc9v2zOdXJ8woyJOHzDD92YP3knwA7081P7rCvqPLkWiSoA5zi2bEMECiW~WoXX46qoiMcirgvgoMqa-5aJ~YZK8P0oerQBXJbGgUVHKVBpdU4mbjI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

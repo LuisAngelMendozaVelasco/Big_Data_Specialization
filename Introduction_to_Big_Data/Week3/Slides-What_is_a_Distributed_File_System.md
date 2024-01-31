@@ -1,0 +1,3 @@
+# Slides: What is a Distributed File System?
+
+https://d3c33hcgiwev3.cloudfront.net/_63b014f86de0af0114687ad1b5c59959_WhatIsADistributedFileSystem-Altintas.pdf?Expires=1706745600&Signature=K5fXb4i78-JJAYhV~20TGp76G-3DxevC3-3DUIPtP1XWf-~pzwnlAAj2FivTFT9ZiN4wdkQiXiNB1bxHXSRRlvJH-pJx7Q6waF12tuS8ZH50yoNzjao8jPCQZGpPPLaVhK7mIUWRXkfcNBAja0hsB9blny960oU-sbskjnCEiyM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

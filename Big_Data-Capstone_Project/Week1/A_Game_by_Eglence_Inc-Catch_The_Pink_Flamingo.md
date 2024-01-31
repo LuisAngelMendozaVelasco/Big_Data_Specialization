@@ -1,0 +1,3 @@
+# A Game by Eglence Inc. : Catch The Pink Flamingo
+
+https://d3c33hcgiwev3.cloudfront.net/_d6361f47c8be866c99a96a2ca199434a_ADescriptionofCatchthePinkFlamingo.pdf?Expires=1706832000&Signature=ZcvLGiKdJh~-bVZ~4BPou6Qb0Jl73BS8h~C4uWDE5YQqrDw7KHk7XglzpAR79HzMKkigevzpiMS2CVTSb3nUDeaAnggS4ShMiG9kVoM9q6ZK6EemBWm8bfGdb-~qjz1alnmEe9AcK4-3I8s7zeWTtVKHllA2BFK1A4w9lRQdFfo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

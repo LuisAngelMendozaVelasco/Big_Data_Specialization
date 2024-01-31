@@ -1,0 +1,3 @@
+# Slides: Other Data Models
+
+https://d3c33hcgiwev3.cloudfront.net/_946c7de71d6e89a811e128084e163009_OtherDataModels.pdf?Expires=1706745600&Signature=WXJuhoqTfKzX1HPayREvgQRRiqR0DM2oyNWub8IstPjEMs9CtGBAcPexEq9drSQbMxyANSxxr-EmmefHAHJZqNaK9VqcywgfFOYLevZYliokrz4aIyZ6D00ktcH9dkgmCNrPqh~JxtlORusJRPM-fzXBWzCvIL5gzF2DlZ1dqn8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

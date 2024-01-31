@@ -1,0 +1,3 @@
+# Slides: Why is Streaming Data Different?
+
+https://d3c33hcgiwev3.cloudfront.net/_e4eedbb77685b388045825a1ce21bf93_WhyIsStreamingDataDifferent.pdf?Expires=1706745600&Signature=Ysxx-TPgtH-hD8yt6KIIxjk7BPDjrPjUCGVVWJH7AO8iuHsHOwCRHHhENK9yt3TflzNeTdYOqS2rIqENCrG~j1~ctfjatMFLK77K9VESud0CeWEpoQPwHYR8Iy786BkSoNJuMDo6K~IUKoUnYJwYFSNfWncsxD-ZV2b-8PhWbcE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

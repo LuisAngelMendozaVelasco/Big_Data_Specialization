@@ -1,0 +1,3 @@
+# Slides: From DBMS to BDMS
+
+https://d3c33hcgiwev3.cloudfront.net/_dcd9d810b1c714d7f292ec0f1546a7cc_FromDBMSToBDMS.pdf?Expires=1706832000&Signature=M4LXYsZ12pSIXX3qkrBvcsnupgLWM4XTnb~jrDtF2yEdGhBNGEBVps37U0GRa4Paciedm4cRS8-zO9etv1OmG9xS22AJkq7IfJMaF6J52S~7nhq4X1qAtDAntFqQNNj9cDnaFkJ4ekXR0UTU0F9W9r7vkyZZLmu5ZYvSQVMqPY8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

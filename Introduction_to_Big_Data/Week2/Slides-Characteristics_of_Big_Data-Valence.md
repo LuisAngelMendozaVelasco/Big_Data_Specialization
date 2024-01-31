@@ -1,0 +1,3 @@
+# Slides: Characteristics of Big Data - Valence
+
+https://d3c33hcgiwev3.cloudfront.net/_6818b4e946bc851d037eeaa8495c371e_Scalability-Valence.pdf?Expires=1706745600&Signature=h~I6gTgqisYLjhFQgYt-K8wawYt0RSrSHBrJaZXFPPbECg-UMz58vKBmcivXeHR1w43Q~NhlYl6tkDYqKaBCcxyec5DUhBsUXPlHLeCpHQ5TaKSa2DFQZ4HQ4GYWC262x0p08Pa0yh0XmJOQBkt9dZR~6V271ru4O97j2KEUps4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

@@ -1,0 +1,3 @@
+# Slides: Big Data Management
+
+https://d3c33hcgiwev3.cloudfront.net/_a595700e67b5f740a66b0e21e45ad7df_BigDataManagement.pdf?Expires=1706745600&Signature=RlQ6Yp2TlyQqEIEneXTLcWVghHVIhqjlfkYm~iH3-UnR0EFq6Oi~ue1ph3SM5dMoUsb6od7Cvrt-C7lbU7KmLNjjslKtc4q2OgoNHLEsII2kk2TMEKgDAkCgywr6rvwDXmxKCQNB8Dna584tzFKTSAkpoTkbbsRsQnLNRICCPuo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

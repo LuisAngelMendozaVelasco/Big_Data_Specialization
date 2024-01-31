@@ -1,0 +1,3 @@
+# Slides: Step 1 - Acquiring Data
+
+https://d3c33hcgiwev3.cloudfront.net/_b5370e08c95052fa6a44e8993e963296_4.Step1-AccessingAndRetrievingData-Altintas.pdf?Expires=1706745600&Signature=km~2kyEfvQGrqaE7fkNWiLRVsrmfGx2gtQC2B6JeoCsBTQuX6TSBSXs~RjLq8PhHIUrMOAWLybkYAdn9aTApb6gKsuYtrODQMv8Ydz0KiIqvSXEuVzsUtBn3BUl85xF~Bk-7l3hvmAYCmhCyiihV4KR22haQUVinqcP9iidV7ig_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

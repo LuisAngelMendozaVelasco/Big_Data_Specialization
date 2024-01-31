@@ -1,0 +1,3 @@
+# Handling Missing Values in KNIME
+
+https://d3c33hcgiwev3.cloudfront.net/_2ac38f09cb384ca8a864ad3d71a0cf13_HandlingMissingValuesinKNIME.pdf?Expires=1706832000&Signature=fq7sPsYuisFk86iz4j7HP3pXDm~x~AZjtjJebZAEPlm-rhuOsatafNFd7hNFvVDvsz57MWWImbufo6WM37zKLEKMd5A2HRVg4TpY02vsuslLk9bZ-Cw5wDw0jIit2YsQt~tMeSkPybELb8yw0qTJ~XpKEYNTGiKM-VCgi~dOWFM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

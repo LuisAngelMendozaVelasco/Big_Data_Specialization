@@ -1,0 +1,3 @@
+# Slides: What is a Data Stream?
+
+https://d3c33hcgiwev3.cloudfront.net/_21cdf47f168434b19d8decefef81b4d6_WhatIsADataStream.pdf?Expires=1706745600&Signature=RkTTmWjhXTQU5gSvUKG5hJVHcSAo9flJLUR8dsmyJKOCxHAadAqcOr1~ErdQ2NlwvopQ7jkt-WOanutGZGHDzZEdVz~LwHE6ydaDdAXbIV2sCrJ~5z9ML8cbx4VxPtY752ee3pJVILe491jaEqKczDdRsthABEYEt7NTtBaxxjI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

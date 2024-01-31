@@ -1,0 +1,3 @@
+# Slides: Machine-Generated Data: It's Everywhere and There's a Lot!
+
+https://d3c33hcgiwev3.cloudfront.net/_676fc1fbce9e250b9723cde3d5b57114_MachineGeneratedData-Part1-Altintas-Final.pdf?Expires=1706745600&Signature=YPAizr4dIhJiJMHx3oux6A00VBvvWVmopVfFgbdvArX0SMC~w6QPpvRcueDvVrvhcrVp63lmFY8iDgfGCgLZoryHz0wUy31wcxl5ujCh33Sct-Auzr1YSIWfxOtMnAd7QOSJ-mhdpNlt8vy-Gmgi5wVSSuiHikGB92zfWhFXwZQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

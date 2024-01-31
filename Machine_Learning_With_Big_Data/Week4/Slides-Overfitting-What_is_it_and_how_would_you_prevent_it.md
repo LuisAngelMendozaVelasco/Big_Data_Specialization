@@ -1,0 +1,5 @@
+# Slides: Overfitting: What is it and how would you prevent it?
+
+- [Generalization & Overfitting](https://d3c33hcgiwev3.cloudfront.net/_04b33d6bde4003da34c62c14a143229d_generalization_and_overfitting.pdf?Expires=1706832000&Signature=Oy~IfaJfpciCmhWTrZy4oIb9myBzOR~WW7uZ3coFJlIOpAvlw1A01B50EU4xpMIqI47g4h-UOQpz3CrpLjMaw3sefajas5GadbgVZKJvT1-2z7LG3ttiadsgYPeIaWKzJMovKN8HqJ9AnjK7Qq2KgKtpYZlTkpvTxs2iCKSh59s_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Overfitting in Decision Trees](https://d3c33hcgiwev3.cloudfront.net/_8fe97e81ac0c1046e03a0e2d89a1e02f_overfitting_decision_trees.pdf?Expires=1706832000&Signature=UCoB8dfrUFvBnkfAjkZZgM6JttJwynwFkIhUGv7NwszUpJ-9v9KHtkoMmkQJ3jv4-OwNjWikbZUTT-I8gSXnXlarrzUEkR1SInSB1YrXZfkROPCtSd4cc-rVWp5ZgXqjMqEEvUpTyKTQn8ggW5KRA-vH0sEu2q8TwtbZfQk2AeM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Using a Validation Set](https://d3c33hcgiwev3.cloudfront.net/_b6a46c3b1456ed154e8abb9dd1d2cc65_using_a_validation_set.pdf?Expires=1706832000&Signature=kKUOdkQkNsR5Ky6-a2SqaSMwHR69USrxar4aH4JvQXiM16q96hlk2bh7eKMzCZp-gOZB2EqfE2RrDk8MvDOjyAUsOzjq~Offj6lI~ymwpcqjQ~EbLQ86dnTo6hOL~DbJaWTR0ttQggmLKqhkextyNyR~gIS67wHnGJa6T1ELLaM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

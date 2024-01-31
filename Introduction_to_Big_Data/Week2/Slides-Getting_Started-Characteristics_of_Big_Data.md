@@ -1,0 +1,3 @@
+# Slides: Getting Started - Characteristics of Big Data
+
+https://d3c33hcgiwev3.cloudfront.net/_d53d5a9219380db0ab734c0146d58565_CharacteristicsOfBigData-Altintas-Final.pdf?Expires=1706745600&Signature=H-MJ7lkyVstxBItH1fDn9t9B6ds2DC3iKNKpEbv2Lc8fb2uku2W68KJmvBgHFFSa-ddnjTEc31nzCpVRS2HSUzHztcSsFPfB0xuEEKJqmXFf6CLBjsxv2sQp4jD8ypcCHzyY-BPPCJdg1eNTZ4HiIKFI1YSC4sw5CAzimo8MTf8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

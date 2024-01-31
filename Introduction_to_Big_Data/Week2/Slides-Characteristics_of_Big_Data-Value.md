@@ -1,0 +1,3 @@
+# Slides: Characteristics of Big Data - Value
+
+https://d3c33hcgiwev3.cloudfront.net/_3f8929e1c08718be89abb79564eb8718_Value-Altintas-Final.pdf?Expires=1706745600&Signature=cpxyAIU54FHvl9eh9eeTHChobgTZB2D02Nr5Sa~AZ-mhXkF~BnfpCTMi9kH4V87jKeUG7GaxKcqIR8I5yyhvc6QWlBvGgPlpoot4bFMgPInyq5m~6tCs7xMyH6tivXO9XQ7n26q9qLEm516-64GCvyMq9qTMchhzCAlckEAqM3U_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

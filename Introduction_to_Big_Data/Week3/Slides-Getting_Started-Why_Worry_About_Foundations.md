@@ -1,0 +1,3 @@
+# Slides: Getting Started-Why Worry About Foundations?
+
+https://d3c33hcgiwev3.cloudfront.net/_12583d2fd0e0b9bbda5cb4aa5c335b19_GettingStarted-WhyDoYouNeedFoundations-Altintas.pdf?Expires=1706745600&Signature=cgAuEu-kqqixVZIJrtUjkG1x1FDV2-0~PonL5gB84GmUGjNPxgbnWiIvTK9tMDZb-0jrJXgPWVM8RExB-B~e0VJ7dWXv8Smzl6FeM4un9XN2v1p7bXftdHOfGvGP2C-z7E3Shvl~EvrlmcqctxmtLdyIdzKVicJChmfje7D5wZg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

@@ -1,0 +1,3 @@
+# Datasets and Libraries for Example of Analytics Hands On
+
+https://d3c33hcgiwev3.cloudfront.net/_85905e556033e0b72a6839008dbe7d2b_ExamplesOfAnalytics.zip?Expires=1706832000&Signature=jF07FmKyKnlobRdzkIX1Ycgwb8GotI-hZ7R4wFP3eGmRBOBIaDauvaP4Vl88IOmF36mgYGD41gdJq8907TZGDs5wMxIzQZ6FCsPSKl0RgqGGeNz3fBTNqdlpJy7egRCb9cs4QtsNMZMqDCNOa5ptweFuBXf3qppbhQ23A9hCnZs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

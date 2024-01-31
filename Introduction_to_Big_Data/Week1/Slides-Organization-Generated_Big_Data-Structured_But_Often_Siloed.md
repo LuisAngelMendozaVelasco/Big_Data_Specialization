@@ -1,0 +1,3 @@
+# Slides: Organization-Generated Big Data: Structured But Often Siloed
+
+https://d3c33hcgiwev3.cloudfront.net/_f1f691848c529fe6ef86c7df9e87791b_OrganizationGeneratedData-Part1-Altintas-Final.pdf?Expires=1706745600&Signature=dipHcZJKGOWM0iseslsc4V7glIEaSegskcKVZ5A2FGpm1-Wpt44pMfatCli2KM6CRa0Pt~HwZYHElGr-GZvqrnn6riznBuGNvpOwZQxJSTG7pjYo4TilfCz9oUjeW7dP6bRR~9l6PmTrUoJEk2kITzZ1Cr12oJrkrEjU6Tyd8WY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

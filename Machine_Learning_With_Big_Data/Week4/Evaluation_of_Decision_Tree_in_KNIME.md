@@ -1,0 +1,3 @@
+# Evaluation of Decision Tree in KNIME
+
+https://d3c33hcgiwev3.cloudfront.net/_41325fdc1809bc69a253f67aa408d68e_EvaluationofDecisionTreeinKNIME.pdf?Expires=1706832000&Signature=NByA6Hv9F5ZogHh82qXX8uE7Cn3OeApoJMgCZaXQxr5XKg087GZz2an9Z67m9~U3hTCJg-jVNF7taU5WF0ewy37B5Lc0BSFBvnvMBBQoqCpL4-C94oTDPoGHANm98S3-8MgJtlrtFlsEhdiGoutyW60DM1AxF23zNdrh4ZaeeSo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

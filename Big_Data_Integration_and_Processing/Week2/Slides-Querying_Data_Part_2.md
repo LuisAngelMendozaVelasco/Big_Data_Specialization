@@ -1,0 +1,4 @@
+# Slides: Querying Data Part 2
+
+- [Querying Data Part 2](https://d3c33hcgiwev3.cloudfront.net/_a84b03c24b7b3c21addac5e2c7d249fc_Querying_Data_Part_2.pdf?Expires=1706832000&Signature=END1oTOr7yIfdXXVHUnKWGKCsMfgEqKW0HzKlkqr-g7z4TdHu8pyZ59MpT0WKszl5dR9vVfSTV2tHQfUr8-voBkqfoJS4-Cg4ex8NWn6k2wF8R0URPnarEsic0UA7hFIt0xWs-JgKTp-5qLamCtjM~doY4sWC4jb-pPi4HXYaB0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Aggregation Functions and Querying Aerospike](https://d3c33hcgiwev3.cloudfront.net/_c27c629e422eccc9e67c5224500398d5_Aggregation_Functions_and_Querying_Aerospike.pdf?Expires=1706832000&Signature=G2Z78D~HPhIE2ZgVOrX29YuHGHE4tDqzyShmjrZOfbEQCv1Qp4xsfDAkL5nWbKeKqisCqL7DD~n3Dq~P8-NjgYPshYMnl5NjkOCzG3YrE8HUPsjJSVH51BezWV0Z8b03w5ibREj4TUfn4bI8OuuF9EMSgrgauTQECHKhACkXa88_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

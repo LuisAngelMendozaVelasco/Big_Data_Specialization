@@ -1,0 +1,3 @@
+# Interpreting a Decision Tree in KNIME
+
+https://d3c33hcgiwev3.cloudfront.net/_9826a141dcc6330114b430d550e6530b_InterpretingaDecisionTreeinKNIME.pdf?Expires=1706832000&Signature=OC0voWJDI4-JU1YQO5bijPO7JPN~ejRtvTYs2dHKZiouH5uf7xZ-6UOzahLesFBvyDe2qX4w16KGOp2UWvm-zGVw1OqvFfqRHS8xMbNzM-6XM1Gh8Y-ofgW2f8WaT2BKmHhppScA4eL9ZAW2P1AG-E5K4uK~90kn2BifL~zFuPo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

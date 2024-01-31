@@ -1,0 +1,4 @@
+# Slides: What is Classification?
+
+- [Classification Overview](https://d3c33hcgiwev3.cloudfront.net/_a86bb68cca108d368d462cb9a581d089_classification_overview.pdf?Expires=1706832000&Signature=WnuhndjctdkTzWuRTyO2b9-YyEinSwKbXUPuLPpWGBzhOGS8Yp3P3M2oOFbQBqlTp7C0TiairT6FeIUjUl57lS~kfDPnURZBwCona85uqaAZavV22P36D9-pn99LCLeOIFZSD-V0VUR79vX-iHSTH1ypcO6v4YvmBEM6P1SLPW0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Building and Applying a Classification Model](https://d3c33hcgiwev3.cloudfront.net/_a86bb68cca108d368d462cb9a581d089_building_classification_model.pdf?Expires=1706832000&Signature=FgIzdwXWTVyvhxlUeLC2qHeZOvMpZ9LV-qf1noUs09RnbdnO2Lsnou9WhEprdjLy-LYAVYB2d3sw-MK6XUehAq0L6z06-8f~7JhT7qNCbQymddYvNTvfJ6vAUzxOS1j2DjdXBl2znGeebti7gP38nkauiouqzAy1NUqyADwGpjw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

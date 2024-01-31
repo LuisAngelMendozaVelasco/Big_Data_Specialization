@@ -1,0 +1,3 @@
+# Slides: The Five P's of Data Science
+
+https://d3c33hcgiwev3.cloudfront.net/_43743721a7dfbf0a0585c5f21b9820b0_1B.5PsOfDataScience-Altintas.pdf?Expires=1706745600&Signature=RAo8oJBoBVkfVIHjusLC1nDm04GUnkjkbLoQsHshT9cA7-ofdTyW4Wr2yXx58O5daKYybkTekCj5abAUHcBPzF4dgncPkVjqbIaGac6piNe-AE3vIfGWtnLKYyxhvhXT5cETbhLJo3dHH0l5RF-YtvbrlXHEKZTCWv8aO0RIvLs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

@@ -1,0 +1,3 @@
+# Slides: Characteristics of Big Data - Velocity
+
+https://d3c33hcgiwev3.cloudfront.net/_c34394cebbf7e574fa337e8121edbeb5_Velocity-Altintas-Final.pdf?Expires=1706745600&Signature=IwKX3LADsj5jQn-hNFeRFVTNm6dk2~P4GGbBaFjZ3lf7NfbsvSwZY9oB7hS8cXIsJC-GJQUOqNehrVdSJLMcm9Qv6OnmgeWLJg4ioelW48FoEZF5tj6xfa8grlxty5WzJzwce0AoBIycnBj2p3dA8SyNkOkI85lmXyE9tQKux1M_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

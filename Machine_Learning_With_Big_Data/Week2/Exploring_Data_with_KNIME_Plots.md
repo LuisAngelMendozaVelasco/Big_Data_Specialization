@@ -1,0 +1,3 @@
+# Exploring Data with KNIME Plots
+
+https://d3c33hcgiwev3.cloudfront.net/_9e0d39ffee4e72722d55dae6cc2983ec_ExploringDataWithKNIMEPlots.pdf?Expires=1706832000&Signature=dFRKSG0OUvQejMr2DMmDoX4LwCGd4qMnYtj6xgXxRuLe92MVSip5x~BAZGdPT9ZfRO6CAuuJsqGtgrHe-DTharoPRLBwHNF06-iqs9kVSGzqKVHtPFU79s1nNzi1QKDoMk9GM8FR8L1LMcopkVwbeMLYl3GiiBfhmmPTaOegy6c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

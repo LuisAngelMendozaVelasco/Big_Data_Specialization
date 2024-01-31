@@ -1,0 +1,3 @@
+# Slides: Step 2B-Preprocessing Data
+
+https://d3c33hcgiwev3.cloudfront.net/_401d6275f53a618e97a54c47a23dc7e7_6.Step2B-PreprocessingData-Altintas.pdf?Expires=1706745600&Signature=TQhdHml-Hogt0XGghL3uFuLZvyMt1WMmeTV6nMZADW2~Ud5jvIlL7F65oQDUW1ek9G9ILr7wuqNH3X9bq3sZbmP-0k0aGs6hj0QxXcppQl5PNlJpjXL~8NVjpv2JcJnHSUph5KSlVKy5Z32VTK8kK6eZiWAgUovT0UGu6uV1jqo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

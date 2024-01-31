@@ -1,0 +1,3 @@
+# Slides: Steps in the Data Science Process
+
+https://d3c33hcgiwev3.cloudfront.net/_1a0ddde204c6c0aaeb726602a0bef716_3.IntroducingThe6StepProcess-Altintas.pdf?Expires=1706745600&Signature=b6ACbLxgu~GIvSBhJEXQmCdtfem4TjmpOWqZAxAEKTr~xDFqcZXZ2XR3B3WJI9d4bJs73cG2rA4l8zCwaHM-o~PZbd-vqqrvJf7MxwY~A-4WCLAbeqWdLb~h4BSFdTFr9JS5WhiCWL1rh-pzjsVR-ACvSvls8yIwZ7hyt2bGUTo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

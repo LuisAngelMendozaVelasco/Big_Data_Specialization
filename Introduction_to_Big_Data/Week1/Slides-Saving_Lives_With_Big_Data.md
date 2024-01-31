@@ -1,0 +1,3 @@
+# Slides: Saving Lives With Big Data
+
+https://d3c33hcgiwev3.cloudfront.net/_2b593ff1d9c6661bee67a41e69c6afeb_WIFIRE-Altintas-Final.pdf?Expires=1706745600&Signature=auJXLZjQltYL2pw5XPS11pwark3Ln-WuJwnPch9nHTJFyNcPtiYP5DDtBWnHvJlvPcuGH2vzctaYHLgTU0tqKpSS9xVZ47gNVZcDoGzTH3L4VJflyCnPwz3FWvE~mcWYsiW6Rs-oF6l9K50C2DUgX~7YJcnQgej2k-kpJQkSkIY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

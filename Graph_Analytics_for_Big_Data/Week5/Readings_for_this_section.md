@@ -1,0 +1,3 @@
+# Download all of the readings for this section as a PDF
+
+https://d3c33hcgiwev3.cloudfront.net/_20aecd3d6bc2020169cd4ca0677709a8_GraphX-Hands-On.pdf?Expires=1706832000&Signature=hPG1wz9MTOwY40XIE8xXl~PuzNE8Mg5GfdmwZTi83F0CX99fi~e6FKZ7lL0yV5kRDojnSL8zx7xhiTSQEQCkeaIE2eZeiYlMYhc3csfAQ2JI72lOrWucqoFP0~i5QOGVAAE8kmr-yM8xwr8XHKnFTwcv2lT~L01Vcx~Sp8NYGFc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
