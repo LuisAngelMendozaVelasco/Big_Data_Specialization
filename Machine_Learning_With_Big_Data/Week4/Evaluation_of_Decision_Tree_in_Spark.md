@@ -1,3 +1,0 @@
-# Evaluation of Decision Tree in Spark
-
-https://d3c33hcgiwev3.cloudfront.net/_41325fdc1809bc69a253f67aa408d68e_EvaluationofDecisionTreeinSpark.pdf?Expires=1706832000&Signature=hEdVFR7-6tZ38vomStPAyajJNvWtuamn9sFs40aERZrWENJWGyuZttRiXVv4AhoH0K6W-PTkKFNJocJ3S7zPXZ8xP6L36w20Y2q7jSXlHd0a-XfuhbUYzXzJxY1ffrBO6cJZa5lD0TfMR3h8c~rYIvdhDoR7c6che0QB-77MfvI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

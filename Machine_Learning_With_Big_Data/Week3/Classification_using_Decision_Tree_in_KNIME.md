@@ -1,3 +1,0 @@
-# Classification using Decision Tree in KNIME
-
-https://d3c33hcgiwev3.cloudfront.net/_9826a141dcc6330114b430d550e6530b_ClassificationUsingDecisionTreeinKNIME.pdf?Expires=1706832000&Signature=FZTmko0FeDsh1qHn2yVGn9~0UD6kQnk-nJ0sWNwnor0Z45912z3qm8UG0yJmf4OWRrsUmrh5zX0omsQp6S60aZVoxFoI0dH1iTssgy0z74Lsry3MTtVa9Cd~9z9XssZorDTXhA3I2ZsWNTTGFY6x6laMDhWOMa04J415icwyqNE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

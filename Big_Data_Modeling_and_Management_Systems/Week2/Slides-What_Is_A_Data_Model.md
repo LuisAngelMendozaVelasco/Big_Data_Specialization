@@ -1,3 +1,0 @@
-# Slides: What Is A Data Model?
-
-https://d3c33hcgiwev3.cloudfront.net/_cd88d4ea3ca10fbbe62c74dbf707e72f_WhatIsADataModel.pdf?Expires=1706745600&Signature=X2rxdD1uF8qvYw81ANncZZIQ7195W31Juv9b8Oo0bM~MCwJCKqWLjaXYFgHDv7wwGhH~cJeW2YrCckmtVI9lzF9wC4ApuGflJ8EsXHt9~HEYQWaqwFfAf6IO8u-K8lub0PmzC6FaqULMLzOOmGFZB7JO1LNwyKN3WFwb528nAso_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

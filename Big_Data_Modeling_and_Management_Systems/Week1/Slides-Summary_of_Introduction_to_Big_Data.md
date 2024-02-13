@@ -1,3 +1,0 @@
-# Slides: Summary of Introduction to Big Data
-
-https://d3c33hcgiwev3.cloudfront.net/_0b269ff0877c675eabf072343984af49_SummaryOfIntroductionToBigData.pdf?Expires=1706745600&Signature=DbZrpH8YqgYFI-ULVqeW-uRydLkgZckA9PkOrEPuyMEEecwheFZGGQ0GKamm0vqiBk-u5AnI35x3F1~hOvnThw4-SRZuVKpBbI3k3GbYXFyz59YHnJGKTnXQNITfuU0ko-GjMmQRwuvE22wHWm1~m3CRai2FPx-LqqCwXj0XCzs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

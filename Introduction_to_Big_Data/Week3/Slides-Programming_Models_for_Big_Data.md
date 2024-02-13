@@ -1,3 +1,0 @@
-# Slides: Programming Models for Big Data
-
-https://d3c33hcgiwev3.cloudfront.net/_7be90785cb01e0074627c91f279ae7e8_4.ProgrammingModelsForBigData-Altintas-FINAL.pdf?Expires=1706745600&Signature=Nmb-yc5Jjyo25jxUVZmlAc4Muka5WHQ5zUEl0ZMZswg-ewHxD6E1~tbBF99Oucqex~wjrJdAJApnTB4zVneHgjWwq6uFkrsukpAy5PHOdans9KOISDHEJA6LC3SOKv4sEx39O0tpeTQ5Pcq0vx0n7Inmi-~XODzUesCgFqYXKaA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

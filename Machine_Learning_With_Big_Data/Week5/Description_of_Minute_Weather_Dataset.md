@@ -1,3 +1,0 @@
-# Description of Minute Weather Dataset
-
-https://d3c33hcgiwev3.cloudfront.net/_b699007ce5616432ba70cf67d23b7122_DescriptionofMinuteWeatherDataset.pdf?Expires=1706832000&Signature=EQoem3bdvhfJwc1ieU9JNx2qpvOhmDXrq8hmgNOcmhzYT2UBgSj1CGZzHV9MAHpsoDEO0WagwTMigtzoOq0nx3GCaZzQLrkZuh7IMn~tSOhH4m6SC8J6WYlLLFFo3vKelaZ33kW-sUBs7X4VPV5BSF-QHngnGOBxn6HYQgYXzQs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

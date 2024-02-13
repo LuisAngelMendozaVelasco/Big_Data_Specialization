@@ -1,3 +1,0 @@
-# Slides: Characteristics of Big Data - Variety
-
-https://d3c33hcgiwev3.cloudfront.net/_a549bfcce5b0d17e50f74ac152b901d7_Scalability-Variety.pdf?Expires=1706745600&Signature=ivJtEqjo8RwDutX5kmONnC~yWyaZ7Ca3lFfduHZxzXhGh35CXUGJyZQqkAcE4lHBa2Em9659Fo0mBIibFUwgYhKv9a9bOzLT5b89wHSA910IymYtdGPfsNtlxpDZ3FpehuMUlyrfip8Yx3M1clxSj3DQXXVaKAeTzTxxtRtit2s_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

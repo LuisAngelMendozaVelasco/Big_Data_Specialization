@@ -1,3 +1,0 @@
-# Exploring Sensor Data
-
-https://d3c33hcgiwev3.cloudfront.net/_1be0ebf82d1915b8ba83e7eea76ae596_ExploringSensorData.pdf?Expires=1706745600&Signature=YHH9GNRXEswVJQ7BWla9fABY4k5~q4V3zR53lvdPF1NjbPT0DRGQJtzCBDwf7bJbKz~jHwBe5wXiq~ZgYcdgyT8NBOVn6jD~GQNW~o9GMFuyNABvX5GwNVZgb9Iv4h-YBqWnGkk9RViYj1L5~OrhgSG0RSue4leh~izjnKBPzpc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

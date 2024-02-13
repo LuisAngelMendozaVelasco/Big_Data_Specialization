@@ -1,3 +1,0 @@
-# Exploring the Semistructured Data Model of JSON data
-
-https://d3c33hcgiwev3.cloudfront.net/_6645909967ac5f185c1caa1e48983b87_ExploringtheSemistructuredDataModelofJSONdata.pdf?Expires=1706745600&Signature=eLjCT9BWD8CpDY5aurW9IXLOTdE~uqhkw~9unr-uINi97g9JaqARNo~ezag63-XlbpcOHKteXtC0iM06nF~XSfhhA6jSWM6-vzKEGZt5fmVTmqhj-B6tP80qdrsYgqpbkYKIeJG6zzMzeb-TNZA4n3AHwediNRfN1b3dk7wYp4w_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

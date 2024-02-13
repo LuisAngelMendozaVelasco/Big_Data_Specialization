@@ -1,3 +1,0 @@
-# Slides: Scalable Computing Over the Internet
-
-https://d3c33hcgiwev3.cloudfront.net/_a66e0e61c56f7761a1dbf47df35b0b2d_ScalableComputingOverTheInternet-Altintas.pdf?Expires=1706745600&Signature=csXCvuzgfavV4xmvvYQUxqWuPhuXXWRmxAzeKk45elnhPxqXV6-0lsnWHedjE4ifdYM1KwHchAYCeRrKZ0TIlXWGjoJAjD54cdXSqaEMI07a3QS1QsXTxNnlZwRvBy3mEmUpLhuRHY960NnrndtKpg7N9gybyKcVbetzpIRxqXI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

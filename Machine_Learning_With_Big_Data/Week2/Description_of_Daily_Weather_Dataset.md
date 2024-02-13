@@ -1,3 +1,0 @@
-# Description of Daily Weather Dataset
-
-https://d3c33hcgiwev3.cloudfront.net/_02d48737804e6996d1732ff397bf1dda_DescriptionofDailyWeatherDataset.pdf?Expires=1706832000&Signature=gG76DSSUxTJ25hPYRuicX4r~NO4kywkuvmJRyKjcj6ZXN1Onb6DKpPiyyXaQWupZgZXt5wvB-o54iovvrYip2c7o4Ssxl9hlEmHsF8NUSG4gEXztqe38m8SkQk1i3JDXbG2N9yskzHcq7RyGnH8lQ5PQMajLJVQVQeBK2AZFSOs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

@@ -1,3 +1,0 @@
-# Slides: Machine-Generated Data: Advantages
-
-https://d3c33hcgiwev3.cloudfront.net/_0db1684b73f2b1dcf62e8478c148e170_MachineGeneratedData-Part2-Altintas-Final.pdf?Expires=1706745600&Signature=ggWe40qxM2YRAt6x8-xWq0EZeJHwbrNO5Fn4pUicSmoPW2Py~wbkLw~VvEgPPoo9ZOtky3sJw3M61vJA0SqKrd69ck0yjw49PeJrY0A0QZZMmBu0pAuaNwy3vUWuVdNPRYTQqbgLXEintvC2BuK71rzKCwelVFvXQ77IUOZQnd0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

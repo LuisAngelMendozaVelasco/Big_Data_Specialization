@@ -1,3 +1,0 @@
-# Slides: Vector Space Model
-
-https://d3c33hcgiwev3.cloudfront.net/_d83e84f522e8de18345b59f3d6a45b73_VectorSpaceModel.pdf?Expires=1706745600&Signature=DiVTJG3YH5ftRQYUP9ydRziSQ2VLhIsyZjvXdyqBflsuTbgrpFmLhfAegq-7Sw~8s5fMSagWRKocTcdqm~mwSC7DuEHxVDAZC492g4asOAo90d1nJqF1RKuS~NHJc38XNpTRW6R1E4wUKMnsVhYpHZi8fSEMwZIZHxklGlxyafA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

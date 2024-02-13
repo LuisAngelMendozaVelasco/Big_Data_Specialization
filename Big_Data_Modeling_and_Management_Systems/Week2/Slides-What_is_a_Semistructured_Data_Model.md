@@ -1,3 +1,0 @@
-# Slides: What is a Semistructured Data Model?
-
-https://d3c33hcgiwev3.cloudfront.net/_f7c4e0efff957ef85dd5c4b598443e11_SemistructuredDataModel.pdf?Expires=1706745600&Signature=bUlt-OU4sS~9KOyYY3y7l9AXB3eQne~yBdLpVxUtU6iGUmUlpQJ7E~qt1doe8Ar4zCdrb1D3U5wBglTqKNW9yKxjmhrsk8Czu56fIp2~WFmJG-VB7LAv-zvtDlLqjO9Y8TJHSVmZqGI~7mVRTpV8LJ9kD-bLwcc22YSUybPhTTs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

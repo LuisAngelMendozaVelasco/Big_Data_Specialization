@@ -1,3 +1,0 @@
-# Slides: What is Data Retrieval?
-
-https://d3c33hcgiwev3.cloudfront.net/_b1d748f8ee932c82dbf46e25dd614f64_What-is-Data-Retrieval.pdf?Expires=1706832000&Signature=I0X0YEVGmHaCLvlPWOn70qn4B8n~8PFwUgzKRJLp6nqfnRahrBFq76PNxjefX1faiu770Lzc6X0wyoimPlEOBcV5VW-YGP~p1cUivxNSqOUoBvJ30LUivO561CgKrAdP95xhnmAs4ow-NSzJIeFNxsFtdWR0PBfh~7VYDpnQlMQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

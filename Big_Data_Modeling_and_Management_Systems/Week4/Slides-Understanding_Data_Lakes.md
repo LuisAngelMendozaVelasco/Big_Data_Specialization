@@ -1,3 +1,0 @@
-# Slides: Understanding Data Lakes
-
-https://d3c33hcgiwev3.cloudfront.net/_fe89afdf174db079a47322076ef68f17_UnderstandingDataLakes.pdf?Expires=1706745600&Signature=htBCE6VB7j1ELJ07-jKSZ2AYuFmPLuVGrAn0AmcHr--gbdae-iw8yAqu7K4lcErPRtqtRJkJSUn2CZWzeU42LSWeRvdi-6L5A19jW5rNJMBkPzLDIIFlH8P0G76F~cdHymI9Q1NNX60iM1k4Sh3C0H1pjsVTbhQCkZ0Uav-JXew_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

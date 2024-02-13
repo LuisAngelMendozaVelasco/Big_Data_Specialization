@@ -1,3 +1,0 @@
-# Slides: Getting Value Out of Big Data
-
-https://d3c33hcgiwev3.cloudfront.net/_52da9a5a2cf5213d0b219abf106f4659_0A.DataScience-GettingValueOutOfBigData-Altintas.pdf?Expires=1706745600&Signature=abVII~aa63VUKZlUHojsUnXnJGWJZoSTgf384-7LDTxvUib2ZVoEsWjOFIaRslY5u4yrPx6SfsuOOcHB3ZNS-LlyfsdBhGihjLirkrRVmMHlPnFndWWFC4cE8x5YkSbf6PvvK~AWoS~1Lk1u8AnLlLOGJZsu~UXfIYRec~P8u1k_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

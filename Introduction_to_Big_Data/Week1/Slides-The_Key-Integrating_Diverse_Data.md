@@ -1,3 +1,0 @@
-# Slides: The Key - Integrating Diverse Data
-
-https://d3c33hcgiwev3.cloudfront.net/_6ac56e407ba3161b35b0a6e96ff6c7af_TheKeyIsIntegratingDiverseData-Altintas-Final.pdf?Expires=1706745600&Signature=EkP8s729WY4rAZVDDrZXw4H3kCT4xQ3jhksBHrX1Uv9B1hTdlu0qNRBENzPWp87AXXbDDjH1VpCGKt3tOEuc~Vv1nY1fukNDsV9fbo-3EQnFsJnXMsCj2YI3yG4eFiu0nCv7EaVFrcce674z7VleBzeHjft6tgNGcI0BFNHD0Vw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

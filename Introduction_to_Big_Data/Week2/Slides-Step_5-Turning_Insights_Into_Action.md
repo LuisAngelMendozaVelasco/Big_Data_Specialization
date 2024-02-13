@@ -1,3 +1,0 @@
-# Slides: Step 5-Turning Insights Into Action
-
-https://d3c33hcgiwev3.cloudfront.net/_3a6c47766474c0454fca3c3501c5b25d_9.Step6-TurningInsightsIntoAction-Altintas.pdf?Expires=1706745600&Signature=drC2Nbd9kFT6IAk2Wani6xNVwq7NKkHLkhswV9rhkGKoNiAofIBDt~ezYx62mI4vqUp38OQkc~SYigcy0XTNumMLOKTaWfo9xZxkD0OjvGz9UylbHT5XuSt5JNrfgZdFHLaajOKvlM-fYZjgyWO27Dqpnd3RHpzrOaPgIUhAXAk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

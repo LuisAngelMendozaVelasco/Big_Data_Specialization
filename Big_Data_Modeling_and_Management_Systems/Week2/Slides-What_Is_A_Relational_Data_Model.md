@@ -1,3 +1,0 @@
-# Slides: What Is A Relational Data Model?
-
-https://d3c33hcgiwev3.cloudfront.net/_db78b96246fb3390d68238dff22944bb_RelationalDataModels.pdf?Expires=1706745600&Signature=OVNRQvZXVTmDZ7jdeLhKzgKWwU2st-JVqotGVId3wJq7PMjkww8yyjCxykFHic5j9seNPUxJU69LBdOKTIpsfhVCwYZaSwLk39hkEqujbaVVnOd~ONKKL~01E8h8bvw0q7j8FE7HCiZQs6slrk0r55QQPjsIrK6I3nml3KE9DOw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

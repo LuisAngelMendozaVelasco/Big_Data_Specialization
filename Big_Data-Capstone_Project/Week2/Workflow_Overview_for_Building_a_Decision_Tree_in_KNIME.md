@@ -1,3 +1,0 @@
-# Workflow Overview for Building a Decision Tree in KNIME
-
-https://d3c33hcgiwev3.cloudfront.net/_738b77ec9828d075fb67294e2dea62bc_ReadingBuildingaDecisionTreeinKNIME.pdf?Expires=1706832000&Signature=EpscpRVkBnPf64dBbvFScAHCkr9ovXjwCTfsvAKjWcrmtWGUNpBtLv3l859p~HBvsd-6BpeCkUYE-ehlaXZfR0SE5Vx8BYizqaKim2rZHDmwToAgAU-YjIOL3OoNOio2~09c9UydkXwWIBJQI~j4tUhjmnEHPCvtEjRBUvmTUdc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

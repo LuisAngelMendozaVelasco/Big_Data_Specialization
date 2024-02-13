@@ -1,3 +1,0 @@
-# Overview of the Catch the Pink Flamingo Data Model
-
-https://d3c33hcgiwev3.cloudfront.net/_857b442f42b10de5171c087492c309b2_ReadingOverviewoftheCatchthePinkFlamingoDataModel.pdf?Expires=1706832000&Signature=OihopxvCBV5w5h92W~BlsB0zAqtIngUlPyrXr0aLXTcAYRy10QJLNMHDbk9GUqvnqsWabGpwHOIBjK5XHEMItl~zsdi3b0yzEYh3v1wJ5v6y8b8yK75Zv9DMbUI3Rf3bylLZmT~9thwl276Rg26DQCnEDIvsDDzz6ikcQhZ2ylg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

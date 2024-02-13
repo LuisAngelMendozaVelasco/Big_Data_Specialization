@@ -1,3 +1,0 @@
-# Instructions for Creating a Twitter App (Optional)
-
-https://d3c33hcgiwev3.cloudfront.net/_3f11848da718685c24e03e55c6243a3d_InstructionsforSettingUp_TwitterApp.pdf?Expires=1706745600&Signature=HPA5EiFZiHs-hYdobDhiB805cKqlXJPIo8kkuzFhmiXk18jmA6pusJmAAdBHoteePuwz0mvKvY1abUy2TtylDxn8x22U2NeVmx99HiMAOEqwAnHmEumWaK11-v0w736FRYkJn~bSBOQCjA2UpjWC4QoS8geze5M9J3tsC0RxpLI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

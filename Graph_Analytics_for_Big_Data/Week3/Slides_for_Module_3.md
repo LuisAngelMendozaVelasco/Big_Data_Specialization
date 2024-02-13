@@ -1,3 +1,0 @@
-# Slides for Module 3
-
-https://d3c33hcgiwev3.cloudfront.net/_e5e1b3bfdf9d40fdf516b7a1cffe6cc3_Module3_slides.pdf?Expires=1706832000&Signature=XMAkLmorMfyKizSItNttfKhkRoE3Nthj~s5LCq08HSrdO38eXEDxb6Dlo0BF4Wetb6Ggd89TrcVKiguMRaMDo7ZF6zfM9JqNECjggL3rviIrjb6okd6qYs~NWPdvO0dZ-k1RcZrTH4BXuP8jV6ZAFpl5s0JAmsv3ojrQD6h~TYQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

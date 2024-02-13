@@ -1,3 +1,0 @@
-# Slides: Flight Data Management at FlightStats
-
-https://d3c33hcgiwev3.cloudfront.net/_a642598e966de56aaabbc17aa0c1fc87_FlightStats-Data.pdf?Expires=1706745600&Signature=DncuMMfXEjubHrxh26xg~jfbllab~jxhQrx6pFqC4WLy-ormGfyLSAxOiiUFOz3AO6hcobYjIfaJtyOQp1ocSskeunUNGbjm-aEmkhQef4Pn60kuA7YVqaoBLL9GR5xnU4Iv8K5RggdxRQ1xIMzqhdbBShW-zsPN7NPrCYqcyDA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

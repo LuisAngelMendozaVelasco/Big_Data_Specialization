@@ -1,3 +1,0 @@
-# Slides: Characteristics of Big Data - Volume
-
-https://d3c33hcgiwev3.cloudfront.net/_8179e0423f6b9a5be1e4b417d599af11_Volume-Altintas-Final.pdf?Expires=1706745600&Signature=UQztt24yijcB4Hivh9~0CXIqgoMdMcU7AI9VNBM1vEMmMAz4wFePq01MHhFZgSZ91s~zvbxknzjsEzgYA0v1ebe1l~fYiyIUWpxJI9MQUjwtaIkrU317xPkSMtaCkO6Iw5pMONG1xxxD13pi8HgSCbHpzrPQA4wjzBqa7D11FVQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

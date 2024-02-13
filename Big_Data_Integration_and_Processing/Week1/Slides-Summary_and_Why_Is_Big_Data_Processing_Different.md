@@ -1,4 +1,0 @@
-# Slides: Summary & Why Is Big Data Processing Different
-
-- [Summary of Big Data Modeling and Management](https://d3c33hcgiwev3.cloudfront.net/_9697560bb317df2e707fbc6b9cf3acca_SummaryOfBigDataModelingAndManagement.pdf?Expires=1706832000&Signature=I6HCHqltXwsx9YnqlSnu5RUM9W0~N-8KRilpf6TO03BgsfylMcuNM4~mjOfCK79Mp4GJXoR0o1WFUO97J06V0zIUncUr3tGLJl5Ds3Amo08~wPzxkCHz2quEt-6IShLxXgLYH-C8w~Sw9IA9e-bkhZrDuwzIAoi7jdzlZI1UE74_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
-- [Why is Big Data Processing Different?](https://d3c33hcgiwev3.cloudfront.net/_3801a4111b6ce41b9d69ab350d57104a_WhyIsBigDataProcessingDifferent.pdf?Expires=1706832000&Signature=af1s72XiieycJ7pDUVsAcOgWNWj3K5cUnKyWMMac2SuhR4mXBAm4Jql2LAxBKnwybsyYpYgIv2clwQtOfgZvu1Vx6l7u1RE5hm8OgJdJox0NZQU6zJrC2X-HkOuvo7MhMOR1YiDBAjBCo5RFYSCJXfk11lwRjIWK22FRvhCY9I8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

@@ -1,3 +1,0 @@
-# Slides: Asking the Right Questions
-
-https://d3c33hcgiwev3.cloudfront.net/_0ebaed628fbdd1f39d39fbf46fe6b3f1_2.AskingTheRightQuestion-Altintas.pdf?Expires=1706745600&Signature=aq9OLTjVyOWgXtoebEcJtMOoColl5HLlGJ5TsP0Z38UC89XMJ68aDy45GDqrRxYiBbqnGWVkAn66eAwBCw-CokFzqxpW1QreVYUnDNrgpt8S~UrDbqM3~4mmARlcFiFu9rvMdpuXhc8WIUZVu4fse85BOstMaTI20slymY71fGs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

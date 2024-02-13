@@ -1,3 +1,0 @@
-# Slides: Step 4-Communicating Results
-
-https://d3c33hcgiwev3.cloudfront.net/_5ccf3a34c62b492b12931afabb34a491_8.Step4-ReportingInsights-Altintas.pdf?Expires=1706745600&Signature=MAbYKbgjrw6aSB5jYNJ6dg4GQaq-f15cc~ZkT4KOGryi1BkM1WmP-hbQkzvUJ2WEZAXJen~7zqoFyz1VyGM82oEvch4SxN6U60aIFdNID6Ct4Sq4yw6dI1RBakPG90xbmYEmj8NAx6EIqDZU5paWDbB0fjEDl5ON18Z7PWDeVLw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

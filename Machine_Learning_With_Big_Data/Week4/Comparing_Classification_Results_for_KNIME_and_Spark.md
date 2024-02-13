@@ -1,3 +1,0 @@
-# Comparing Classification Results for KNIME and Spark
-
-https://d3c33hcgiwev3.cloudfront.net/_41325fdc1809bc69a253f67aa408d68e_ComparingClassificationResultsforKNIMEandSpark.pdf?Expires=1706832000&Signature=Mj8IDDhAq1iDzNtqNHsNS9Hq1U3S2oJH6t~0vvrFFuMPWl8o6CeQiWcrypZZ8hDrwPqchKNk63NFplg4mnoSqY~D4WiL5kvCHE2nuBPnRLR35q1YWN1-kRcTJj7GUVhDCGz7fie6awvMoJ4vRI4F5AEziuo5EqVsNKZtE5nKn50_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

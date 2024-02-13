@@ -1,3 +1,0 @@
-# Exploring the Relational Data Model of Comma Separated Values (CSV)
-
-https://d3c33hcgiwev3.cloudfront.net/_7e1983641fab516dacac2042e555d61d_ExploringtheRelationalDataModelofCSV.pdf?Expires=1706745600&Signature=HOsoot4IKFGrwyT99ppbvBdjdYK1BMfPulmXwZ6ykppFT-RkQKNn6-4iO7vhq3qVgJT9cOi7y~u3uK-bJUG7MBVesNghQrMO7oJoMW7xpP-x9iNJqexvP2Gtjj3q~u1aVWA1HGNAtrle6cRfLaEGVGGRUQWoGjO-i7Jab2hK5xQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A

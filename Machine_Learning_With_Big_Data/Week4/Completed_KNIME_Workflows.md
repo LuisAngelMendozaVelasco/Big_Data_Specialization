@@ -1,3 +1,0 @@
-# Completed KNIME Workflows
-
-https://d3c33hcgiwev3.cloudfront.net/_41325fdc1809bc69a253f67aa408d68e_CompletedKNIMEWorkflows.pdf?Expires=1706832000&Signature=Va1~uJl~s9zh5ka-RXNwxZimHMXdoXZad028Ne-trYy1Cr1qz~WmWHtFo~UKY9BArBwmm2cA91CYCoYgS-3ef3hkF-lPiF16J0Jvqhw6TEHW2nXosQwPaWIoNA9rd10BKykJbJnUKHfP04ZMfECASxfe2wB4uommE33OOgKsqzg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
